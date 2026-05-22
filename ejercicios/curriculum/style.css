@@ -1,0 +1,47 @@
+/* margin | padding ↑ → ↓ ← */
+/* Nodos */ 
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+
+/* Top */
+.top{
+    margin: 0px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.contact{
+    margin: 0px;
+    text-align: center;
+    vertical-align: top;
+}
+
+/* Information */
+
+div ul li p{
+    margin: 0;
+    text-align: justify;
+}
+
+div p{
+    margin: 0;
+    text-align: justify;
+}
+
+.mid-titles{
+    margin: 2px;
+}
+
+.mid-list{
+    margin: 2px 0;
+
+}
+
+hr{
+    border: none;
+    height: 1px;
+    background-color: rgb(0, 76, 175)
+}
